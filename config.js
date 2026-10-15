@@ -4,7 +4,7 @@
 window.APP_CONFIG = {
   // 구글 Apps Script를 배포하고 받은 주소를 따옴표 안에 붙여 넣으세요.
   // 비워 두면 '연습 모드'로 동작해요. (내 휴대폰에만 저장, 일행과 공유 안 됨)
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwNriAAqcaxiMUbjX5sbVCsVzpvzoetQ_1mc06p8ZAmpI_kKaIJIraoeSsP2qGRTUc1Ww/exec',
 
   // 관리자 화면 비밀번호 (숫자 4자리)
   ADMIN_PIN: '1016',
