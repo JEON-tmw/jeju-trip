@@ -1,0 +1,17 @@
+{
+  "name": "제주 가을여행",
+  "short_name": "제주여행",
+  "description": "우리 여섯의 제주 2박 3일 여행 일정·지도·사진·한마디",
+  "lang": "ko",
+  "start_url": "./index.html#/home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EFE8",
+  "theme_color": "#1F5560",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
